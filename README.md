@@ -1,7 +1,7 @@
 # Alongside Homebrew tap
 
 ```sh
-brew install Alongside-Software/tap/siri-say
+brew install alongside-software/tap/siri-say
 ```
 
 ## Formulae
